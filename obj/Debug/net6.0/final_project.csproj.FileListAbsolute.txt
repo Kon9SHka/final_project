@@ -1,0 +1,15 @@
+/Users/kirillkalinin/Desktop/С#_HOMEWORKS/Final_project_local/final_project/bin/Debug/net6.0/final_project
+/Users/kirillkalinin/Desktop/С#_HOMEWORKS/Final_project_local/final_project/bin/Debug/net6.0/final_project.deps.json
+/Users/kirillkalinin/Desktop/С#_HOMEWORKS/Final_project_local/final_project/bin/Debug/net6.0/final_project.runtimeconfig.json
+/Users/kirillkalinin/Desktop/С#_HOMEWORKS/Final_project_local/final_project/bin/Debug/net6.0/final_project.dll
+/Users/kirillkalinin/Desktop/С#_HOMEWORKS/Final_project_local/final_project/bin/Debug/net6.0/final_project.pdb
+/Users/kirillkalinin/Desktop/С#_HOMEWORKS/Final_project_local/final_project/obj/Debug/net6.0/final_project.csproj.AssemblyReference.cache
+/Users/kirillkalinin/Desktop/С#_HOMEWORKS/Final_project_local/final_project/obj/Debug/net6.0/final_project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillkalinin/Desktop/С#_HOMEWORKS/Final_project_local/final_project/obj/Debug/net6.0/final_project.AssemblyInfoInputs.cache
+/Users/kirillkalinin/Desktop/С#_HOMEWORKS/Final_project_local/final_project/obj/Debug/net6.0/final_project.AssemblyInfo.cs
+/Users/kirillkalinin/Desktop/С#_HOMEWORKS/Final_project_local/final_project/obj/Debug/net6.0/final_project.csproj.CoreCompileInputs.cache
+/Users/kirillkalinin/Desktop/С#_HOMEWORKS/Final_project_local/final_project/obj/Debug/net6.0/final_project.dll
+/Users/kirillkalinin/Desktop/С#_HOMEWORKS/Final_project_local/final_project/obj/Debug/net6.0/refint/final_project.dll
+/Users/kirillkalinin/Desktop/С#_HOMEWORKS/Final_project_local/final_project/obj/Debug/net6.0/final_project.pdb
+/Users/kirillkalinin/Desktop/С#_HOMEWORKS/Final_project_local/final_project/obj/Debug/net6.0/final_project.genruntimeconfig.cache
+/Users/kirillkalinin/Desktop/С#_HOMEWORKS/Final_project_local/final_project/obj/Debug/net6.0/ref/final_project.dll
