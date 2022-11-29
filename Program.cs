@@ -7,6 +7,11 @@ FillArray(first_array);
 //3. заполняем новый массив, который будет включать в себя только значенияс 3-мя и менее символами
 string [] result_array = FillArrayWithBord(first_array);
 
+//4. Выводим на экран результат
+for (int i = 0; i<result_array.Length; i++) 
+{
+    Console.Write($"'{result_array[i]}' ");
+}
 
 //Методы
 //Получаем число от пользователя
